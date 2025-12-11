@@ -1,0 +1,47 @@
+{
+  "S40291": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Markus Lechl, Aiglsöd 10, 94110 Wegscheid, Deutschland",
+    "price": "12.500 €",
+    "description": "Hersteller: BMW<br>Typ: R 1250 GS Adventure<br>Fahrgestelnummer: WB10M1108P6G59329<br>Erstzulassung: 03/2023<br>KM laut Vorbesitzer: 8.264 km<br>Leistung: 100 kW (136 PS)<br>Hubraum: 1.254 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>inkl. BMW Variokofferset im Lieferumfang.",
+    "address": "Markus Lechl<br>Aiglsöd 10<br>94110 Wegscheid<br>Deutschland<br>Telefon: +49 1512 8978175",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "11.12.2025",
+    "deliveryDate": "17.12.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
