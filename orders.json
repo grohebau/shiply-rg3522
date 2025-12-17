@@ -1,6 +1,6 @@
 {
   "S40291": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Markus Lechl, Aiglsöd 10, 94110 Wegscheid, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "11.12.2025",
-    "deliveryDate": "17.12.2025",
+    "deliveryDate": "18-19.12.2025, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Rackwitzer Str. 56",
+      "postal_code": "04347",
+      "city": "Leipzig",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
